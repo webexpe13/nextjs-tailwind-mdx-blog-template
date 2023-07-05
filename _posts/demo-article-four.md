@@ -1,16 +1,16 @@
 ---
 title: "Demo article - four"
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.'
-coverImage: '/assets/blog/cover.jpg'
+coverImage: '/assets/blog/cover-4.png'
 date: "Feb 23, 2023"
 author:
   name: Joe Haddad
   picture: '/assets/blog/authors/joe.jpeg'
-ogImage: '/assets/blog/cover.jpg'
+ogImage: '/assets/blog/cover-4.png'
 category: Category D
 tags: "blog teamplate, blog, template, nextjs, tailwind css, markdown, mdx, tailwindcss, nextjs template, webexpe, webexpe.com"
 keywords: "blog teamplate, blog, template, nextjs, tailwind css, markdown, mdx, tailwindcss, nextjs template, webexpe, webexpe.com"
-thumbnail: "/assets/blog/cover.jpg"
+thumbnail: '/assets/blog/cover-4.png'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.

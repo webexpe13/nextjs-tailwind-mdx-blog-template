@@ -16,7 +16,7 @@ const PostHeader = ({ title, coverImage, date, author, category }: Props) => {
   return (
     <div className="">
       <PostTitle>{title}</PostTitle>
-      <div className="md:mb-12 max-w-3xl mx-auto flex items-center gap-5 mb-4">
+      <div className="md:mb-12 max-w-3xl mx-auto flex items-center md:gap-5 gap-3 mb-4">
         <Avatar name={author.name} picture={author.picture} />
         <span className="inline-block w-[5px] h-[5px] bg-gray-300 rounded-full shrink-0 grow-0"></span>
         <time dateTime={date} className="text-sm block">

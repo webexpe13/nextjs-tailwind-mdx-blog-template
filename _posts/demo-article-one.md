@@ -1,13 +1,13 @@
 ---
 title: "Demo article - one"
 excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-coverImage: "/assets/blog/cover.jpg"
+coverImage: "/assets/blog/cover-1.png"
 date: "Feb 03, 2023"
-ogImage: "/assets/blog/cover.jpg"
+ogImage: "/assets/blog/cover-1.png"
 author:
   name: Tim Neutkens
   picture: "/assets/blog/authors/tim.jpeg"
-thumbnail: "/assets/blog/cover.jpg"
+thumbnail: "/assets/blog/cover-1.png"
 category: Category A
 tags: "blog teamplate, blog, template, nextjs, tailwind css, markdown, mdx, tailwindcss, nextjs template, webexpe, webexpe.com"
 keywords: "blog teamplate, blog, template, nextjs, tailwind css, markdown, mdx, tailwindcss, nextjs template, webexpe, webexpe.com"

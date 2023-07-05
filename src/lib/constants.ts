@@ -1,13 +1,8 @@
 import { iMetaData } from "../interfaces/common";
-
-export const HOME_OG_IMAGE_URL =
-  "https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg";
-
-export const WEBSITE_NAME = "Blog";
-export const WEBSITE_URL = "blog.com";
+export const WEBSITE_NAME = "NextJs, MDX Blog Template";
+export const WEBSITE_URL = "https://nextjs-mdx-blog-template.web.app/";
 export const WEBSITE_TWITTER_HANDLE = "@twitter";
-export const DEFAULT_OG_IMAGE =
-  "https://og-image.vercel.app/Next.js%20Blog%20Starter%20Example.png?theme=light&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fnextjs-black-logo.svg";
+export const DEFAULT_OG_IMAGE = "/public/assets/blog/cover-1.png";
 
 export const DEFAULT_SEO: iMetaData = {
   title: "Blog Website | Made with Next JS",

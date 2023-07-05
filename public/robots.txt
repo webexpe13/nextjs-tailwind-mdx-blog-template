@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://blog-example.com
+Host: https://nextjs-mdx-blog-template.web.app/
 
 # Sitemaps
-Sitemap: https://blog-example.com/sitemap.xml
+Sitemap: https://nextjs-mdx-blog-template.web.app/sitemap.xml
