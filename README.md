@@ -40,7 +40,7 @@ This is an open source project and everyone is welcome to contribute. Feel free 
 
 Created by **[Rupali Yadav](https://www.linkedin.com/in/rupali-yadav-087bb4112/)** and **[Mayur Nalwala](https://www.linkedin.com/in/mayur-nalwala/)** from [WebExpe](https://webexpe.com/) with ♥
 
-<a href="https://www.buymeacoffee.com/webexpe13z" target="_blank">![support us](/public/images/bmc.png)</a>
+<a href="https://www.buymeacoffee.com/webexpe13z" target="_blank">![support us](/public/bmc.png)</a>
 ## Licence
 
 [MIT](https://github.com/webexpe13/blog-template-using-nextjs-typescript-tailwindcss/blob/main/LICENSE) © [Web Expe](https://www.webexpe.com)
