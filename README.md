@@ -6,7 +6,6 @@ This example showcases Next.js's [Static Generation](https://nextjs.org/docs/bas
 
 The blog posts are stored in `/_posts` as Markdown files with front matter support. Adding a new Markdown file in there will create a new blog post.
 
-If you are using the template it will be great if you create a PR and add your blog to this list in readme file. It will motivate us to create more such projects.
 
 ## We have added,
 - Responsive Navbar
@@ -29,11 +28,16 @@ If you are using the template it will be great if you create a PR and add your b
 ```bash
 npm install
 ```
-3. After installation is done run npm start
+3. After installation is done run npm run dev
 ```bash
-npm start
+npm run dev
 ```
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Demo
+- [Demo Website](https://nextjs-mdx-blog-template.web.app/)
+
+If you are using the template it will be great if you create a PR and add your blog to this list in readme file. It will motivate us to create more such projects.
 
 ## Support
 This is an open source project and everyone is welcome to contribute. Feel free to open an issue, if you have any questions or incase you find a bug. Create your versions of this template and help the community, also if you are using our template a little credit will be much appreciated.
